@@ -17,7 +17,7 @@ const SignIn: React.FC = () => (
              <Input name="Email" icon={FiMail} placeholder="E-mail"></Input>
              <Input name="password" icon={FiLock} type="password" placeholder="Senha" ></Input>
 
-             <Button type="submit">teste</Button>
+             <Button type="submit">Entrar</Button>
 
              <a href="forgot">Esqueci minha senha</a>
 
